@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">MyPro</string>
+    <string-array name="menu_spinner">
+        <item>Select Question</item>
+        <item>What is class?</item>
+        <item>What are the different features of c++?</item>
+        <item>Explain constructor?</item>
+        <item>What is a function?</item>
+        <item>Explain Inline function?</item>
+        <item>What is function overloading?</item>
+        <item>What is implicit and explicit type conversion?</item>
+        <item>What is Inheritance?</item>
+        <item>What is friend function?</item>
+        <item>What is friend class?</item>
+        <item>What are the Comments in C++?</item>
+        <item>What are the advantages of Inheritance?</item>
+        <item>What is a Constant?</item>
+        <item>What are the various Compound Assignment Operators?</item>
+        <item>What do you mean by ‘void’ return type?</item>
+        <item>Why are arrays usually processed with for loop?</item>
+         
+        <item>State the difference between delete and delete [].</item>
+        <item>What is wrong with this code?</item>
+        <item>Does a derived class inherit or doesn’t inherit?</item>
+        <item>What is wrong with this code?</item>
+        <item>What is a Reference Variable in C++?</item>
+        <item> What is Polymorphism?</item>
+        <item>Explain Mutable Storage class specifier.</item>
+        <item>What is the keyword auto for?</item>
+        <item>What is a Static Variable?</item>
+        <item>What are Virtual Functions?</item>
+        <item>Explain Register Storage Specifier.</item>
+        <item>When to use “const” reference arguments in a function?</item>
+        <item>What is a Class?</item>
+        <item>Difference between Class and Structure.</item>
+        <item>What is Namespace?</item>
+        <item>What is the use of ‘using’ declaration?</item>
+        <item>What is Name Mangling?</item>
+        <item>What is a Conversion Constructor?</item>
+        <item>What is an Explicit Constructor?</item>
+        <item>Explain role of Static keyword for a class member variable</item>
+        <item>Explain the Static Member Function.</item>
+        <item>Explain Function Overloading and Operator Overloading.</item>
+        <item>Name the Operators that cannot be Overloaded.</item>
+        <item> What is Exception Handling?</item>
+    </string-array>
+    <!--Source of this questions : https://blog.oureducation.in/important-question-on-c/
+     https://www.softwaretestinghelp.com/cpp-interview-questions/  -->
+
+    <string-array name="j_menu">
+        <item>Select Question</item>
+        <item>What is JAVA?</item>
+        <item>What are the features of JAVA?</item>
+        <item>How does Java enable high performance?</item>
+        <item> Name the Java IDE’s?</item>
+        <item>What do you mean by Constructor?</item>
+        <item> Explain Local variable and the Instance variable.</item>
+        <item> What is a Class?</item>
+        <item> What is an Object?</item>
+        <item> What are the OOPs concepts?</item>
+        <item> What is Inheritance?</item>
+        <item>What is Encapsulation?</item>
+        <item> What is Polymorphism?</item>
+        <item>What is meant by Method Overriding?</item>
+        <item> What is meant by Overloading?</item>
+        <item> What is meant by Interface?</item>
+        <item> What is meant by Abstract class?</item>
+        <item> What is the meaning of Collections in Java?</item>
+        <item>Explain about Public and Private access specifiers.</item>
+        <item>Explain the different lists available in the collection.</item>
+        <item>Explain the Priority Queue.</item>
+        <item>What is meant by Exception?</item>
+        <item>What are the advantages of Exception handling?</item>
+        <item> What are the Exception handling keywords in Java?</item>
+        <item>Explain about Exception Propagation.</item>
+        <item>What is the final keyword in Java?</item>
+        <item>What is a Thread?</item>
+        <item>Explain about join () method.</item>
+        <item> What does the yield method of the Thread class do?</item>
+        <item>Difference between String, String Builder, and String Buffer.</item>
+        <item> Difference between Array and Array List.</item>
+        <item> Difference between start() and run() method of thread class.</item>
+    </string-array>
+    <!--    https://www.softwaretestinghelp.com/core-java-interview-questions/ -->
+    <string-array name="sq_menu">
+        <item>Select Question</item>
+        <item>What is SQL?</item>
+        <item> What are tables in SQL?</item>
+        <item> How and when to use the DISTINCT statement?</item>
+        <item> What are triggers?</item>
+        <item> What is View in SQL?</item>
+        <item> How we can update the view?</item>
+        <item> How many types of Privileges are available in SQL?</item>
+        <item> What is SQL Injection?</item>
+        <item> What is SQL Sandbox in SQL Server?</item>
+        <item> Difference between SQL and PL/SQL</item>
+        <item> Difference between SQL and MySQL?</item>
+        <item> What is the use of the NVL function?</item>
+        <item> What is the Cartesian product of the table?</item>
+        <item> What do you mean by Subquery?</item>
+        <item>  What are different Clauses used in SQL?</item>
+        <item>What are Indexes in SQL?</item>
+        <item> Difference between DELETE and TRUNCATE</item>
+        <item> Difference between DROP and TRUNCATE</item>
+        <item> What are different JOINS used in SQL?</item>
+        <item>How many Aggregate functions are available in SQL?</item>
+        <item> What are transactions and their controls?</item>
+        <item> State some properties of Relational databases?</item>
+        <item> What are Nested Triggers?</item>
+        <item> What is a Cursor?</item>
+        <item> What is Collation?</item>
+        <item> What do we need to check in Database Testing?</item>
+        <item> What is Database White Box Testing?</item>
+        <item> What is Database Black Box Testing?</item>
+        <item> What does SQL stand for?</item>
+        <item> How to select all records from the table?</item>
+        <item> What is the syntax to add a record to a table?</item>
+        <item> How do you add a column to a table?</item>
+        <item>What are the properties of the transaction?</item>
+        <item> Explain the working of SQL Privileges?</item>
+        <item>What is Normalization?Explain it.</item>
+    </string-array>
+
+    <!-- https://www.softwaretestinghelp.com/50-popular-sql-interview-questions-for-testers/  -->
+
+    <string-array name="ht_menu">
+        <item>Select Question</item>
+        <item>What is HTML?</item>
+        <item>What are tags?</item>
+        <item>Do all HTML tags come in a pair?</item>
+        <item>How do you insert a comment in HTML?</item>
+        <item> Do all character entities display properly on all systems?</item>
+        <item>What is an image map?</item>
+        <item>What is the advantage of collapsing white space?</item>
+        <item>How do you insert a copyright symbol on a browser page?</item>
+        <item>Can you change the color of bullets?</item>
+        <item>How do you create links to sections within the same page?</item>
+        <item>Is there any way to keep list elements straight in an HTML file?</item>
+        <item>What is the use of alternative text in image mapping?</item>
+        <item> Do older HTML files work on newer browsers?</item>
+        <item>Does a hyperlink apply to text only?</item>
+        <item>How do you change the number type in the middle of a list?</item>
+        <item>What are style sheets?</item>
+        <item>State bullet types available in HTML </item>
+        <item>How do you create multi-coloured text in a webpage?</item>
+        <item>Why are there both numerical and named character entity values?</item>
+        <item>What is the advantage of grouping several checkboxes together?</item>
+        <item> What will happen if you overlap sets of tags?</item>
+        <item>What are applets?</item>
+        <item>Is it possible to set specific colours for table borders?</item>
+        <item>What other ways can be used to align images and wrap text?</item>
+        <item>Can a single text link point to two different web pages?</item>
+        <item>What are the limits of the text field size?</item>
+        <item> What is a marquee?</item>
+        <item>Which browsers support HTML5?</item>
+        <item>What is figure tag in HTML5?</item>
+        <item>What is the use of Canvas element?</item>
+        <item>Explain five new input types provided by HTML5 for forms.</item>
+        <item>How are active links different from normal links?</item>
+    </string-array>
+    <!-- https://career.guru99.com/top-50-html-interview-questions/ -->
+
+    <string name="info"><p>This android based application will provide 4 different Topics(C++,JAVA,SQL and HTML). On the bases of the Topic Selected one can easily generate the question paper. User can create the question paper of 10 questions at maximum. The pdf created can be found in the my files or file explorer of the respective device.
+    </p></string>
+
+    <string name="hycpp"><a href="https://www.softwaretestinghelp.com/cpp-interview-questions/">C++</a></string>
+    <string name="hysql"><a href="https://www.softwaretestinghelp.com/50-popular-sql-interview-questions-for-testers/">SQL</a></string>
+    <string name="hyhtml"><a href="https://career.guru99.com/top-50-html-interview-questions/">HTML</a></string>
+    <string name="hyjava"><a href="https://www.softwaretestinghelp.com/core-java-interview-questions/">JAVA</a></string>
+</resources>
